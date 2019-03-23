@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  environment:
+    build: ./env
+    volumes:
+      - ./app:/home/app
+    container_name: 100-day-challeng-env
