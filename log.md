@@ -14,4 +14,12 @@
 
 **Thoughts**: To make life easier, I decided to create docker images for this project.
 
-**Link to work**: [Environement](./src/01-environment)
+**Link to work**: [Environement](./src/01-environment**
+
+### Day 2: March 24, 2019
+
+**Today's Progress**: Update dockerfile to make it shareable across projects
+
+**Thoughts**: I didn't progressed today as much as I hoped.
+
+**Link to work**: [Environement](./src/02-watch-files**

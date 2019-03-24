@@ -2,7 +2,7 @@ version: '3'
 
 services:
   environment:
-    build: ./env
+    build: ../../docker
     volumes:
       - ./app:/home/app
-    container_name: 100-day-challeng-env
+    container_name: 100daysofcode_env
