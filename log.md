@@ -31,3 +31,11 @@
 **Thoughts**:  Started with something easy - nginx uptime monitoring. Will do scheduled nginx log processing tomorrow.
 
 **Link to work**: [Monitor Nginx](./src/03-monitor-nginx)
+
+### Day 4: March 26, 2019
+
+**Today's Progress**: Process Nginx logs
+
+**Thoughts**: Added nginx log processing and visualization via plotly.
+
+**Link to work**: [Nginx Logs](./src/04-nginx-logs)

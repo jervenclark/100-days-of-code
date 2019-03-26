@@ -1,9 +1,18 @@
 # Start app
-
 import fabric
 
-connection = fabric.Connection('localhost')
+# Establish connection
+connection = fabric.Connection('web-server')
 
-result = connection.run('uname -s')
+# Test nginx configuration
+def main():
+    nginx_test()
+    nginx_status()
 
-print(result)
+def nginx_test():
+    result = connection.sudo('nginx -t')
+
+def nginx_status():
+    result = connection.sudo('service nginx status')
+
+main()
