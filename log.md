@@ -14,7 +14,7 @@
 
 **Thoughts**: To make life easier, I decided to create docker images for this project.
 
-**Link to work**: [Environement](./src/01-environment**
+**Link to work**: [Environment](./src/01-environment)
 
 ### Day 2: March 24, 2019
 
@@ -22,4 +22,12 @@
 
 **Thoughts**: I didn't progressed today as much as I hoped.
 
-**Link to work**: [Environement](./src/02-watch-files**
+**Link to work**: [Watch Files](./src/02-watch-files)
+
+### Day 3: March 25, 2019
+
+**Today's Progress**: Monitor Nginx uptime
+
+**Thoughts**:  Started with something easy - nginx uptime monitoring. Will do scheduled nginx log processing tomorrow.
+
+**Link to work**: [Monitor Nginx](./src/03-monitor-nginx)
