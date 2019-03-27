@@ -39,3 +39,11 @@
 **Thoughts**: Added nginx log processing and visualization via plotly.
 
 **Link to work**: [Nginx Logs](./src/04-nginx-logs)
+
+### Day 5: March 26, 2019
+
+**Today's Progress**: Graph
+
+**Thoughts**: Added fabric response graph
+
+**Link to work**: [Graph](./src/05-graph)
